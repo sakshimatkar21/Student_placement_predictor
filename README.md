@@ -145,10 +145,4 @@ Contributions are welcome.
 4. Push to your branch
 5. Create a Pull Request
 
----
 
-
-
----
-
-⭐ If you like this project, don't forget to give it a Star!
