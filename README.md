@@ -1,11 +1,11 @@
-# 🎓 Student Placement Prediction
+# Student Placement Prediction
 
-## 📌 Overview
+## Overview
 Student Placement Prediction is a Machine Learning project that predicts whether a student is likely to get placed based on academic performance and other relevant factors. This project helps students understand their placement chances and identify areas that need improvement.
 
 ---
 
-## 🚀 Features
+## Features
 - Predicts student placement status
 - User-friendly interface
 - Data preprocessing and cleaning
@@ -15,7 +15,7 @@ Student Placement Prediction is a Machine Learning project that predicts whether
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -27,7 +27,7 @@ Student Placement Prediction is a Machine Learning project that predicts whether
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Student-Placement-Prediction/
@@ -49,7 +49,7 @@ Student-Placement-Prediction/
 
 ---
 
-## 📊 Dataset
+## Dataset
 The dataset contains student information such as:
 - Gender
 - Secondary Education Percentage
@@ -62,7 +62,7 @@ The dataset contains student information such as:
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 Clone the repository
 
@@ -96,7 +96,7 @@ jupyter notebook
 
 ---
 
-## 🤖 Machine Learning Workflow
+## Machine Learning Workflow
 
 1. Import Dataset
 2. Data Cleaning
@@ -109,7 +109,7 @@ jupyter notebook
 
 ---
 
-## 📈 Algorithms Used
+## Algorithms Used
 - Logistic Regression
 - Decision Tree
 - Random Forest
@@ -117,7 +117,7 @@ jupyter notebook
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 - Accuracy Score
 - Confusion Matrix
 - Precision
@@ -126,7 +126,7 @@ jupyter notebook
 
 ---
 
-## 🎯 Future Improvements
+## Future Improvements
 - Improve prediction accuracy
 - Deploy using Flask or Django
 - Add Student Login System
@@ -135,7 +135,7 @@ jupyter notebook
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome.
 
@@ -147,17 +147,7 @@ Contributions are welcome.
 
 ---
 
-## 📜 License
 
-This project is licensed under the MIT License.
-
----
-
-## 👨‍💻 Author
-
-**Your Name**
-
-GitHub: https://github.com/your-username
 
 ---
 
